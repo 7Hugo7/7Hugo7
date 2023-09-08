@@ -1,28 +1,26 @@
-@@ -0,0 +1,28 @@
+@@ -0,0 +1,25 @@
 ---
-title: Isha2103
-date: '2020-17-05'
+title: sebaF96
+date: "2020-29-08"
 spoiler: Short and Sweet Realtime Readme Template
 categories: ["short-and-sweet", "all-profile"]
-githubUsername: 'Isha2103'
+githubUsername: "sebaF96"
 ---
 
-### Isha Gupta 
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+<br>
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
--  **Hobbies :** Articles & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organisation :** Technojam
+```shell
+$ echo "Hello World!" > README.md
+```
+    
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaf96&hide=stars,issues&count_private=true&show_icons=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact" />
+</a>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br> <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-⭐️ From [Isha Gupta](https://github.com/Isha2103)
+⭐️ From [sebaF96](https://github.com/sebaF96)
