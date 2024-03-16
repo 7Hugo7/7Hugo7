@@ -1,17 +1,4 @@
-@@ -0,0 +1,25 @@
----
-title: sebaF96
-date: "2020-29-08"
-spoiler: Short and Sweet Realtime Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: "sebaF96"
----
 
-<br>
-
-```shell
-$ echo "Hello World!" > README.md
-```
     
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
