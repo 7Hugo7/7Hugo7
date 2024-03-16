@@ -23,4 +23,3 @@ $ echo "Hello World!" > README.md
 
 <br> <br>
 
-⭐️ From [sebaF96](https://github.com/sebaF96)
